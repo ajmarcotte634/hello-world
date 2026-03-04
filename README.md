@@ -11,4 +11,4 @@ This is our program, which asks a user for their name, and a test score. The pro
 
 # Cloning
 The following line will be used to clone the notebook into Jupyter.
-git clone https://github.com/ajmarcotte634/hello-world.git
+'git clone https://github.com/ajmarcotte634/hello-world.git'
