@@ -8,3 +8,7 @@ This is our program, which asks a user for their name, and a test score. The pro
 1) AJ Marcotte
 2) Max Pegher
 3) Joshua Kim
+
+# Cloning
+The following line will be used to clone the notebook into Jupyter.
+git clone https://github.com/ajmarcotte634/hello-world.git
